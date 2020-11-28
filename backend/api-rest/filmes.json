@@ -1,0 +1,84 @@
+{
+  "filmes": [
+      {
+          "id": 133453126,
+          "nome": "The Christmas Chronicles 2",
+          "descricao" : "The Christmas Chronicles 2, sylized na tela como The Christmas Chronicles: Part Two e The Christmas Chronicles Volume XVII: The Return of Belsnickel é um filme de comédia de Natal americano de 2020 dirigido e co-produzido por Chris Columbus a partir de um roteiro de Columbus e Matt Lieberman.",
+          "diretor": "Chris Columbus",
+          "lancamento": 2020,
+          "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmrIGJ6La1Eq5XSitI3gkwtpSgHQFamupxKBq9Goa8YuAacDkz"
+      },
+      {
+          "id": 133453127,
+          "nome": "Superação: O Milagre da Fé",
+          "descricao" : "Durante um passeio com a família em uma manhã de inverno no Lago St Louis, no Missouri, o menino John Smith, de apenas 14 anos, sofre uma queda e se afoga por mais de 15 minutos.",
+          "diretor": "Roxann Dawson",
+          "lancamento": 2019,
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmijd1Ryd1WFkxtnoa4iRbGV91joYOxPew1vve7IGGCP1I9M8"
+      },
+      {
+          "id": 1334531268,
+          "nome": "Sociedade Secreta dos Segundos Filhos Reais",
+          "descricao" : "Uma princesa rebelde fica chocada ao descobrir que possui superpoderes e pertence a uma sociedade secreta com uma longa tradição de manter secretamente a paz em todo o reino.",
+          "diretor": "Anna Mastro",
+          "lancamento": 2020,
+          "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJE1dnNvGClEw9FIjKj7l_VAjeLajWoZNpHUx2XtO0eAcpS4H3"
+      },
+      {
+          "id": 1334531269,
+          "nome": "Frozen 2",
+          "descricao" : "De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle.",
+          "diretor": "Jennifer Lee, Chris Buck",
+          "lancamento": 2019,
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBR98_qi1DbdOmqsmqEUWpsAVaCyz0gg-cAtScmkXl8j9KoKvj"
+      },
+      {
+          "id": 13345312610,
+          "nome": "Aves de Rapina",
+          "descricao" : "Depois de se aventurar com o Coringa, Arlequina se junta a Canário Negro, Caçadora e Renee Montoya para salvar a vida de uma garotinha do criminoso Máscara Negra em Gotham City",
+          "diretor": "Cathy Yan",
+          "lancamento": 2020,
+          "imagem": "https://br.web.img3.acsta.net/pictures/19/09/17/19/29/5316438.jpg"
+      },
+      {
+          "id": 13345312611,
+          "nome": "A Extraordinária Garota Chamada Estrela",
+          "descricao" : "Stargirl é um filme americano de 2020, do gênero drama romântico-musical, dirigido por Julia Hart, com roteiro baseado no romance homônimo de Jerry Spinelli.",
+          "diretor": "Julia Hart",
+          "lancamento": 2020,
+          "imagem": "https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2020/01/stargirl-gracevanderwaal.jpg"
+      },
+      {
+          "id": 13345312612,
+          "nome": "Coringa",
+          "descricao" : "solado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô.",
+          "diretor": "Todd Phillips",
+          "lancamento": 2019,
+          "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3kEFg8g-cdpamz5o28Ipv1eQ8Hez7aq4YC5cP9uCkZYAjefWR"
+      },
+      {
+          "id": 13345312613,
+          "nome": "Dolittle",
+          "descricao" : "O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles diariamente.",
+          "diretor": "Stephen Gaghan",
+          "lancamento": 2020,
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaVKcAjhgheLcfyW1H7t0UW-xyVi8WLN_KSWt3Zzei-bWCu2C"
+      },
+      {
+          "id": 13345312614,
+          "nome": "Te Peguei!",
+          "descricao" : "Desde a primeira série na escola, um grupo de cinco amigos tem um hábito curioso que realiza pelo menos uma vez ao ano: brincar enlouquecidamente de pega-pega, correndo em uma competição alucinante para ser o último homem de pé ao final da brincadeira, arriscando seus empregos e relacionamentos.",
+          "diretor": "Jeff Tomsic",
+          "lancamento": 2018,
+          "imagem": "https://br.web.img3.acsta.net/pictures/18/04/27/18/53/2045777.jpg"
+      },
+      {
+          "id": 13345312615,
+          "nome": "Sonic: O Filme",
+          "descricao" : "Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.",
+          "diretor": "Jeff Fowler",
+          "lancamento": 2020,
+          "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwvG-uwxusT7aTUXTWQ3X_9TDTgPQ_OkcUsVQomLg9DYvKsUs-"
+      }
+  ]
+}
