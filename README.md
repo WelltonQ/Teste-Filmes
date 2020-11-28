@@ -5,7 +5,7 @@
 ## Backend:
 - Entre na pasta do backend: `cd backend`;
 - Instale as dependências: `yarn install`;
-- Execute o seguinte comando para subir a API: `json-server --watch -p 3333 api-rest/filmes.json`
+- Execute o seguinte comando para subir a API: `yarn start`.
 
 ## Frontend
 - Entre na pasta do frontend: `cd frontend`;
